@@ -40,4 +40,34 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## This is a web app for users to rent and sale houses. RapidAPI was applied to our backend. The frontend is created by React JS and Next.JS. The functions include rental homes and for-sale properties, property details with an image carousel, advanced property filtering and much more.
 
 ### The home page includes two parts: houses for renting and house for buying. Each section is displaying 6 properties. Buttons "Explore Renting" and "Explore Buying" allow us to explore more properties.
-<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/pairwise.png" alt="image" title="medi">
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-1.png" alt="image" title="medi">
+
+### Home page = 6 property for renting are displayed
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-2.png" alt="image" title="medi">
+
+### Home page - "Explore Buying" button for more homes
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-3.png" alt="image" title="medi">
+
+### Home page - 6 property for sale are presented
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-4.png" alt="image" title="medi">
+
+#### Advanced Filter - Individul property with summary information that catch users' eyes easily
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-5.png" alt="image" title="medi">
+
+#### Detailed Description
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-6.png" alt="image" title="medi">
+
+#### Facility List
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-7.png" alt="image" title="medi">
+
+#### Advanced Filter - Filter by Rent Frequency
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/realtor-8.png" alt="image" title="medi">
+
+#### Advanced Filter - Filter by Sort
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/filter-2.png" alt="image" title="medi">
+
+#### Advanced Filter - Filter by Property Type
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/filter-3.png" alt="image" title="medi">
+
+#### Advanced Filter - Filter by rooms
+<img src="https://github.com/Wenhuan2516/RealtorProject/blob/main/filter-4.png" alt="image" title="medi">
