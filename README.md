@@ -38,3 +38,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## This is a web app for users to rent and sale houses. RapidAPI was applied to our backend. The frontend is created by React JS and Next.JS. The functions include rental homes and for-sale properties, property details with an image carousel, advanced property filtering and much more.
+
+### The home page includes two parts: houses for renting and house for buying. Each section is displaying 6 properties. Buttons "Explore Renting" and "Explore Buying" allow us to explore more properties.
+<img src="https://github.com/Wenhuan2516/Developing-MEDI-and-SEDI/blob/main/pairwise.png" alt="image" title="medi">
